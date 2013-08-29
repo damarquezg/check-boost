@@ -1,0 +1,7 @@
+**** Dummy scritp to check boost version ****
+
+*** Compilation ***
+
+>>
+g++ boost_version.cpp -o boostver
+<<
